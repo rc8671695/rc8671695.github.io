@@ -1,1 +1,1 @@
-Write to think clearly!
+Write to think clearly
