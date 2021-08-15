@@ -17,14 +17,18 @@ layout: default
       {%- endif -%}</p>
   </header>
 
+<!-- Do not display share links
   <div class="share-links">
     {% include sharelinks.html %}
   </div>
+-->
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% include navlinks.html %}
   </div>
 
+<!-- skip previous blog posts
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+-->
 </article>
