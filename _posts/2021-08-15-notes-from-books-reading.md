@@ -1,3 +1,9 @@
+---
+layout: post
+title: Writing down notes from books
+categories: [books]
+---
+
 ## writing down notes from books
 
 I will start adding notes from books I am reading. Interesting excerpts and summary on the ideas from the books.
