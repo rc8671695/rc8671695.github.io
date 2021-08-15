@@ -7,6 +7,6 @@ Currently I am reading
 - The Revolt of the Public
 - Sex At Dawn
 - The Sovereign Individual
-- The Beginnings of Infinity
+- The Beginning of Infinity
 
 ---
