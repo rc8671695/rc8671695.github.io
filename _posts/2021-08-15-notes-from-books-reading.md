@@ -2,6 +2,7 @@
 layout: post
 title: Writing down notes from books
 categories: [books]
+tags: [books]
 ---
 
 ## writing down notes from books
